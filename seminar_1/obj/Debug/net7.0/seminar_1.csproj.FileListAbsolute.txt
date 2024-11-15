@@ -12,3 +12,18 @@ C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar_
 C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar_1\obj\Debug\net7.0\seminar_1.pdb
 C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar_1\obj\Debug\net7.0\seminar_1.genruntimeconfig.cache
 C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar_1\obj\Debug\net7.0\ref\seminar_1.dll
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\bin\Debug\net7.0\seminar_1.exe
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\bin\Debug\net7.0\seminar_1.deps.json
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\bin\Debug\net7.0\seminar_1.runtimeconfig.json
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\bin\Debug\net7.0\seminar_1.dll
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\bin\Debug\net7.0\seminar_1.pdb
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.AssemblyInfoInputs.cache
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.AssemblyInfo.cs
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.sourcelink.json
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.dll
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\refint\seminar_1.dll
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.pdb
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\seminar_1.genruntimeconfig.cache
+C:\Users\Юрий\Desktop\Ученье СВЕТ\c#\New-C-learning\seminar_1\obj\Debug\net7.0\ref\seminar_1.dll

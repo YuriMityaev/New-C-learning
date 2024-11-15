@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "7tp5VGRI9TgNSG/WD4vbu+EbhhmJpLrtzFjRBflqYXA6ucI9NUZAhqMY5+z+1AcFzT+86R7uFCTaYTBRPGjQzg==",
+  "dgSpecHash": "lEfx2DuqgGM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\seminar_1\\seminar_1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Юрий\\Desktop\\Ученье СВЕТ\\c#\\New-C-learning\\seminar_1\\seminar_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\Юрий\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
