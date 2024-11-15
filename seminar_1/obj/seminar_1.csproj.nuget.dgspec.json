@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\newC\\new C#.csproj": {}
+    "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\seminar_1\\seminar_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\newC\\new C#.csproj": {
+    "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\seminar_1\\seminar_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\newC\\new C#.csproj",
-        "projectName": "new C#",
-        "projectPath": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\newC\\new C#.csproj",
+        "projectUniqueName": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\seminar_1\\seminar_1.csproj",
+        "projectName": "seminar_1",
+        "projectPath": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\seminar_1\\seminar_1.csproj",
         "packagesPath": "C:\\Users\\YuriM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\newC\\obj\\",
+        "outputPath": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\seminar_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\YuriM\\AppData\\Roaming\\NuGet\\NuGet.Config"

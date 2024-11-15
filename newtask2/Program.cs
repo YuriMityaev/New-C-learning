@@ -27,3 +27,14 @@ d1 = 6;
 
 double quotilent2 = i1 / d1;
 Console.WriteLine(quotilent2);
+
+int a = 5;
+int b = 44;
+int c = 8;
+int d = 8;
+
+double q1 = (a*b)/(c+d);
+Console.WriteLine(q1);
+
+int a = ;
+int b = ;

@@ -12,3 +12,17 @@ C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\obj\Debu
 C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\obj\Debug\net7.0\new C#.pdb
 C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\obj\Debug\net7.0\new C#.genruntimeconfig.cache
 C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\obj\Debug\net7.0\ref\new C#.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\bin\Debug\net7.0\new C#.exe
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\bin\Debug\net7.0\new C#.deps.json
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\bin\Debug\net7.0\new C#.runtimeconfig.json
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\bin\Debug\net7.0\new C#.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\bin\Debug\net7.0\new C#.pdb
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\new C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\new C#.AssemblyInfoInputs.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\new C#.AssemblyInfo.cs
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\new C#.csproj.CoreCompileInputs.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\new C#.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\refint\new C#.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\new C#.pdb
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\new C#.genruntimeconfig.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newC\obj\Debug\net7.0\ref\new C#.dll
