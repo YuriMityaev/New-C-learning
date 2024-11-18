@@ -40,8 +40,8 @@
 // 4 => -4, -3, -2, -1, 0, 1, 2, 3, 4
 //2 => -2, -1, 0, 1, 2
 
-Console.Write("Введите число: ");
-int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+//  Console.Write("Введите число: ");
+// int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 // int i = -number;
 // while(i<=number)
 //{
@@ -51,8 +51,26 @@ int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 //System.Console.WriteLine();
 
 // ОТДЕЛЬНО РЕШЕНИЕ ЧЕРЕЗ "FOR" 
-for(int i = -number; i <=number; i++)
-    System.Console.Write(i + " ");
+// for(int i = -number; i <=number; i++)
+//    System.Console.Write(i + " ");
 // если нужно сделать больше одного дейсвия необходимо 
 // прописывать через контекст {}
 
+//Напишите программу, которая принимает на вход
+//трёхзначное целое число и на выходе показывает сумму
+//первой и последней цифры этого числа.
+//456 => 10
+//782 => 9
+//918 => 17
+
+Console.Write("Введите число: ");
+int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+
+if (number > 99 && number < 1000) // && - означает что оба условия должны выполняться одновременно.
+{
+    System.Console.WriteLine(number / 100 + number % 10);
+}
+else
+{
+    System.Console.WriteLine("Введите повторно ТРЕХЗНАЧНОЕ число.");
+}
