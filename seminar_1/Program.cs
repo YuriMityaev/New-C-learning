@@ -63,14 +63,91 @@
 //782 => 9
 //918 => 17
 
-Console.Write("Введите число: ");
-int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+// Console.Write("Введите число: ");
+// int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
 
-if (number > 99 && number < 1000) // && - означает что оба условия должны выполняться одновременно.
+// if (number > 99 && number < 1000) // && - означает что оба условия должны выполняться одновременно.
+//{
+//    System.Console.WriteLine(number / 100 + number % 10);
+// }
+// else
+// {
+//    System.Console.WriteLine("Введите повторно ТРЕХЗНАЧНОЕ число.");
+//}
+
+// Домашнее задание:
+// Задача 0: 
+
+// Console.Write("Введите первое число: ");
+// int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+// Console.Write("Введите первое число: ");
+// int number2 = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+
+// if (number < number2)
+// {
+// System.Console.WriteLine("Второе число больше");
+// }
+// else
+// {
+//    System.Console.WriteLine("Первое число больше");
+// }
+
+// Задача 1: ( НЕ РЕШЕНА)
+// Jпределите, делится ли число на другое
+// Описание: Напишите метод, который на вход принимает два целых числа и проверяет,
+// делится ли первое число на второе. Если делится, выводите "делится", иначе
+// выводите "не делится".
+
+//Console.Write("Введите первое число: ");
+// int number = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+// Console.Write("Введите первое число: ");
+//int number2 = Math.Abs(Convert.ToInt32(Console.ReadLine()));
+
+// System.Console.WriteLine(number / number2); // конструкция просто для просмотра введенных переменных.
+// System.Console.WriteLine(number % number2); // конструкция просто для просмотра введенных переменных.
+
+// if ((number % number2) > 0)
+// {
+// System.Console.WriteLine("не делится");
+// }
+// else
+//{
+// System.Console.WriteLine("делится");
+// }
+
+// Задача № 2. 
+
+// Нужно ввести три числа и вернуть среднее из этих чисел.
+
+Console.Write("Введите первое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите второе число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.Write("Введите третье число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+
+int max = a;
+int min = b;
+if (b > max)
 {
-    System.Console.WriteLine(number / 100 + number % 10);
+    max = b;
 }
-else
+if (c > max)
 {
-    System.Console.WriteLine("Введите повторно ТРЕХЗНАЧНОЕ число.");
+    max = c;
 }
+
+if (a < min)
+{
+    min = a;
+}
+if (c < min)
+{
+    min = c;
+}
+
+Console.WriteLine("Минимальное число " + min);
+Console.WriteLine("Максимальное число " + max);
+
+int middlenumber = a + b + c - min - max;
+System.Console.WriteLine("Число со средним значением " + middlenumber);
