@@ -126,28 +126,46 @@ int b = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите третье число: ");
 int c = Convert.ToInt32(Console.ReadLine());
 
-int max = a;
-int min = b;
-if (b > max)
-{
-    max = b;
-}
-if (c > max)
-{
-    max = c;
-}
+//int max = a;
+//int min = b;
+//if (b > max)
+//{
+  //  max = b;
+//}
+//if (c > max)
+//{
+  //  max = c;
+//}
 
-if (a < min)
-{
-    min = a;
-}
-if (c < min)
-{
-    min = c;
-}
+//if (a < min)
+//{
+  //  min = a;
+//}
+//if (c < min)
+//{
+  //  min = c;
+//}
 
-Console.WriteLine("Минимальное число " + min);
-Console.WriteLine("Максимальное число " + max);
+//Console.WriteLine("Минимальное число " + min);
+//Console.WriteLine("Максимальное число " + max);
 
-int middlenumber = a + b + c - min - max;
-System.Console.WriteLine("Число со средним значением " + middlenumber);
+//int middlenumber = a + b + c - min - max;
+//System.Console.WriteLine("Число со средним значением " + middlenumber);
+
+// подсмотренное решение в  описании задания ниже 
+//(даже обидно что тоже работает и похоже на то, что хотел 
+//сделать изначально, но не совсем продумал 
+//как именно это сделать):
+
+if ((a >= b && a <= c) || (a >= c && a <= b))
+{
+System.Console.WriteLine(a);
+}
+else if ((b >= a && b <= c) || (b >= c && b <= a))
+{
+System.Console.WriteLine(b);
+}
+else
+{
+System.Console.WriteLine(c);
+}
