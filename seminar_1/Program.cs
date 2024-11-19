@@ -119,12 +119,12 @@
 
 // Нужно ввести три числа и вернуть среднее из этих чисел.
 
-Console.Write("Введите первое число: ");
-int a = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите второе число: ");
-int b = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите третье число: ");
-int c = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите первое число: ");
+// int a = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите второе число: ");
+// int b = Convert.ToInt32(Console.ReadLine());
+// Console.Write("Введите третье число: ");
+// int c = Convert.ToInt32(Console.ReadLine());
 
 //int max = a;
 //int min = b;
@@ -157,15 +157,55 @@ int c = Convert.ToInt32(Console.ReadLine());
 //сделать изначально, но не совсем продумал 
 //как именно это сделать):
 
-if ((a >= b && a <= c) || (a >= c && a <= b))
+//if ((a >= b && a <= c) || (a >= c && a <= b))
+// {
+// System.Console.WriteLine(a);
+// }
+// else if ((b >= a && b <= c) || (b >= c && b <= a))
+// {
+// System.Console.WriteLine(b);
+// }
+// else
+// {
+// System.Console.WriteLine(c);
+// }
+
+// Console.Write("Введите первое число: ");
+// int number = Convert.ToInt32(Console.ReadLine());
+
+// if ( number < 0 )
+// {
+// System.Console.WriteLine("Число отрицательное");
+// }
+// else if (number == 0)
+// {
+//    System.Console.WriteLine("Число равно 0");
+// }
+// else 
+// {
+//     System.Console.WriteLine("Положительное число");
+//}
+
+
+//Задание 4
+// Вывести нечетные числа
+// Описание: Напишите метод, который на вход принимает число (number), а на выходе
+// выводит все нечетные числа от 1 до number (включительно), после каждого числа
+//должен быть знак пробела.
+
+
+Console.Write("Введите число: ");
+int number = Convert.ToInt32(Console.ReadLine());
+
+for (int i = 1; i < number; i++ )
 {
-System.Console.WriteLine(a);
-}
-else if ((b >= a && b <= c) || (b >= c && b <= a))
-{
-System.Console.WriteLine(b);
-}
-else
-{
-System.Console.WriteLine(c);
+    if (i % 2 == 0)
+    {
+         System.Console.Write(" ");
+    }
+    else
+    {
+        System.Console.Write( i + " ");
+    }
+   
 }
