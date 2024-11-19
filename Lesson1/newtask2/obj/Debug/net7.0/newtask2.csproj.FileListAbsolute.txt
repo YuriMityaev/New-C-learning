@@ -1,0 +1,14 @@
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\newtask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\newtask2.AssemblyInfoInputs.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\newtask2.AssemblyInfo.cs
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\newtask2.csproj.CoreCompileInputs.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\bin\Debug\net7.0\newtask2.exe
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\bin\Debug\net7.0\newtask2.deps.json
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\bin\Debug\net7.0\newtask2.runtimeconfig.json
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\bin\Debug\net7.0\newtask2.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\bin\Debug\net7.0\newtask2.pdb
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\newtask2.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\refint\newtask2.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\newtask2.pdb
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\newtask2.genruntimeconfig.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\newtask2\obj\Debug\net7.0\ref\newtask2.dll
