@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Юрий\\Desktop\\Ученье СВЕТ\\c#\\New-C-learning\\Lesson2\\task2\\task2.csproj": {}
+    "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\Lesson2\\task2\\task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Юрий\\Desktop\\Ученье СВЕТ\\c#\\New-C-learning\\Lesson2\\task2\\task2.csproj": {
+    "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\Lesson2\\task2\\task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Юрий\\Desktop\\Ученье СВЕТ\\c#\\New-C-learning\\Lesson2\\task2\\task2.csproj",
+        "projectUniqueName": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\Lesson2\\task2\\task2.csproj",
         "projectName": "task2",
-        "projectPath": "C:\\Users\\Юрий\\Desktop\\Ученье СВЕТ\\c#\\New-C-learning\\Lesson2\\task2\\task2.csproj",
-        "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Юрий\\Desktop\\Ученье СВЕТ\\c#\\New-C-learning\\Lesson2\\task2\\obj\\",
+        "projectPath": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\Lesson2\\task2\\task2.csproj",
+        "packagesPath": "C:\\Users\\YuriM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YuriM\\OneDrive\\Рабочий стол\\Обучение\\new C#\\Lesson2\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\YuriM\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"

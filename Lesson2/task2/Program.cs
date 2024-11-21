@@ -4,9 +4,10 @@ int [] arr = new int[n];
 //int i = 0;
 
 //while (i< n)
-for(int i = 0; i < n; arr[i]= i + 1)
+
+for (int i = 0; i < n; arr[i] = i ++)
 {
-    arr[i] = i + 1; 
+    arr[i] = i + 1;
     System.Console.Write($"{arr[i]}" + " ");
-   i = i + 1;
+    // i = i + 1;
 }
