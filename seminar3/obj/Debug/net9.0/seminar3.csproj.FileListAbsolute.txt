@@ -1,0 +1,15 @@
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.AssemblyInfoInputs.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.AssemblyInfo.cs
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.csproj.CoreCompileInputs.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.sourcelink.json
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\bin\Debug\net9.0\seminar3.exe
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\bin\Debug\net9.0\seminar3.deps.json
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\bin\Debug\net9.0\seminar3.runtimeconfig.json
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\bin\Debug\net9.0\seminar3.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\bin\Debug\net9.0\seminar3.pdb
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\refint\seminar3.dll
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.pdb
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\seminar3.genruntimeconfig.cache
+C:\Users\YuriM\OneDrive\Рабочий стол\Обучение\new C#\seminar3\obj\Debug\net9.0\ref\seminar3.dll
