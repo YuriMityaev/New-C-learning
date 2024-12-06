@@ -29,25 +29,51 @@
 
 // задача 3 Передача массива в функцию и последующее изменение.
 
-void ZeroEvenElements(int[] arr)
+// void ZeroEvenElements(int[] arr)
+// {
+//     for (int i = 0; i < arr.Length; i++)
+//     {
+//         if (arr[i] % 2 == 0)
+//         {
+//             arr[i] = 0;
+//         }
+//     }
+// }
+
+// void printArray(int[] arr)
+// {
+//     foreach (int e in arr)
+//     {
+//         System.Console.Write($"{e} ");
+//     }
+// }
+
+// int[] array = { 1, 2, 3, 4, 5 };
+// ZeroEvenElements(array);
+// printArray(array);
+
+int n = 10;
+int [] arr = new int [n];
+void FillArray(int[] arr)
 {
-    for (int i = 0; i < arr.Length; i++)
+    for(int i = 0; i < arr.Length; i++)
     {
-        if (arr[i] % 2 == 0)
-        {
-            arr[i] = 0;
-        }
+        arr[i] = i + 1;
+    }
+    }
+
+
+void PrintArray(int[] arr)
+{
+    for(int i = 0; i < arr.Length; i++)
+    {
+        System.Console.Write($"{arr[i]} ");
     }
 }
+FillArray(arr);
+PrintArray(arr);
 
-void printArray(int[] arr)
+void GetSumOfElements(arr);
 {
-    foreach (int e in arr)
-    {
-        System.Console.Write($"{e} ");
-    }
+    for(int i = 0, sum = 0;)
 }
-
-int[] array = { 1, 2, 3, 4, 5 };
-ZeroEvenElements(array);
-printArray(array);
